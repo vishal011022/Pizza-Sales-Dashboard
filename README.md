@@ -1,5 +1,5 @@
 # Pizza-Sales-Dashboard
-🍕 Pizza Sales Dashboard
+
 **1. Project Title / Headline**
 Slice Insights: Pizza Sales Performance Dashboard
 
