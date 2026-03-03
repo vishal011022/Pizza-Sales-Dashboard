@@ -41,19 +41,27 @@ Understand customer ordering patterns
 
 **5. Dashboard Features**
 Interactive slicers (Date, Category, Size)
+
 Drill-down capability (Year → Month → Day)
+
 Category-wise revenue breakdown
+
 Size-based performance comparison
+
 Time-based sales analysis (Peak hours)
 
 **6. Tech Stack**
 Power BI Desktop – Data modeling & visualization
+
 Power Query – Data cleaning and transformation
+
 DAX – KPI calculations and measures
+
 Data Modeling – Star schema (Fact & Dimension tables)
 
 **7. Data Model Overview**
 Fact Table: Sales Transactions
+
 Dimension Tables:
 Date
 Pizza Category
