@@ -69,15 +69,23 @@ Pizza Name
 Size
 
 **8. Business Insights **
+
 Large size pizzas generate the highest revenue.
+
 Weekend sales outperform weekdays.
+
 A small group of pizzas contributes to a large portion of revenue (Pareto effect).
+
 Peak order time is during evening hours.
 
 **9. Target Audience**
+
 Restaurant Owners
+
 Operations Managers
+
 Sales Analysts
+
 Marketing Teams
 
 10. Screenshots / Demos
