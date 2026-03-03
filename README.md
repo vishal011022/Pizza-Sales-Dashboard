@@ -15,9 +15,13 @@ It helps business managers and stakeholders monitor KPIs, identify best-selling 
 **3. Key Objectives**
 
 -Track total revenue, total orders, and average order value
+
 -Analyze daily and monthly sales trends
+
 -Identify top-performing pizza categories and sizes
+
 -Monitor peak order times
+
 -Understand customer ordering patterns
 
 **4. KPIs Included**
