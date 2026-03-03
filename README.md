@@ -1,16 +1,19 @@
 # Pizza-Sales-Dashboard
 
 **1. Project Title / Headline**
+
 Slice Insights: Pizza Sales Performance Dashboard
 
 An interactive Power BI dashboard designed to analyze pizza sales performance, customer behavior, and revenue trends to support business decision-making.
 
 **2. Short Description / Purpose**
+
 The Pizza Sales Dashboard is a dynamic Power BI report that provides insights into revenue, order trends, product performance, and customer preferences.
 
 It helps business managers and stakeholders monitor KPIs, identify best-selling pizzas, optimize inventory, and improve sales strategies.
 
 **3. Key Objectives**
+
 -Track total revenue, total orders, and average order value
 -Analyze daily and monthly sales trends
 -Identify top-performing pizza categories and sizes
