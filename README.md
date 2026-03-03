@@ -14,7 +14,7 @@ It helps business managers and stakeholders monitor KPIs, identify best-selling 
 
 **3. Key Objectives**
 
--Track total revenue, total orders, and average order value
+*Track total revenue, total orders, and average order value
 
 -Analyze daily and monthly sales trends
 
